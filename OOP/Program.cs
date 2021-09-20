@@ -27,7 +27,8 @@ namespace OOP
             Console.WriteLine(numbers.Contains(1));
 
 
-            // it iteration from last.
+            // it iteration from last. it means last in first out
+          
             foreach (var item in numbers)
             {
                 Console.WriteLine(item);
